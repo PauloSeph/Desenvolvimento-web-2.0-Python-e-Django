@@ -1,1 +1,0 @@
-# Desenvolvimento-web-2.0-Python-e-Django
